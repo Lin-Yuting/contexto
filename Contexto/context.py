@@ -17,7 +17,8 @@ else:
     st.write("Noticia original-----------------")
 
 
-st.sidebar.title("Select")
-
-st.sidebar.subheader("News......")
-News_Type = st.sidebar.selectbox("Type",["Sport","Science"])
+st.sidebar.button("Sport")
+st.sidebar.button("Art")
+st.sidebar.button("Science")
+st.sidebar.button("Politic")
+st.sidebar.button("Technology")
