@@ -1,17 +1,11 @@
 import streamlit as st
 
-st.markdown(
-    """
-    <style>
-    body {
-        background-color: #ffc0cb;
-    }
-    </style>
-    """,
-    unsafe_allow_html=True
-)
-
-st.title("Contexto")
+# st.markdown{
+#     <style>
+#     <
+# }
+st.title("Context")
+st.markdown("<h1 style='font-family: Arial; font-size: 10px;'>Context</h1>", unsafe_allow_html=True)
 st.header("Noticias")
 
 st.write("Noticia original")
