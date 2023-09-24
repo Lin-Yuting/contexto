@@ -1,17 +1,28 @@
 import streamlit as st
 
+st.markdown(
+    """
+    <style>
+    body {
+        background-color: #ffc0cb;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
 st.title("Contexto")
 st.header("Noticias")
 
-st.write("Noticia original-----------------")
+st.write("Noticia original")
 
 
-st.sidebar.button("Sport")
-st.sidebar.button("Art")
-st.sidebar.button("Science")
-st.sidebar.button("Politic")
-st.sidebar.button("Technology")
-if st.sidebar.button("Entreinment"):
+st.sidebar.button("Deportes")
+st.sidebar.button("Arte")
+st.sidebar.button("Ciencia")
+st.sidebar.button("Política")
+st.sidebar.button("Tecnología")
+if st.sidebar.button("Entretenimiento"):
     st.write("1-")
     st.write("¡Atención, amantes de las celebridades! Parece que la estrella del pop internacional, Luna Star, está en medio de un misterioso romance que ha dejado a todos boquiabiertos. ¿La persona afortunada? Nada menos que el famoso chef gourmet, Marco Delicioso.")
     st.write("Los rumores comenzaron cuando Luna y Marco fueron vistos compartiendo una cena íntima en uno de los restaurantes más exclusivos de la ciudad. Testigos aseguran que la química entre ellos era evidente y que pasaron horas riendo y disfrutando de la comida gourmet.")
