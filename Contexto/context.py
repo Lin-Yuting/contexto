@@ -88,15 +88,15 @@ if SidebarButton("Ciencia"):
     col1, col2, col3 = st.columns(3)
     with col1:
         linkDeImagen("https://media.datacenterdynamics.com/media/images/Extra.original.jpg")
-        linkDeNoticia("https://www.youtube.com/?bp=wgUCEAE%3D","10 Noticias que cambiaron el mundo")
+        linkDeNoticia("https://stunning-xylophone-5gqx59prvg6xhqxr-8503.app.github.dev/","10 Noticias que cambiaron el mundo")
         st.markdown("<h1 style='font-family: Arial; font-size: 12px; text-align: center;'>ooooooooooooooooooooooooooooooooooooo</h1>", unsafe_allow_html=True)
     with col2:
         linkDeImagen("https://cnnespanol.cnn.com/wp-content/uploads/2023/08/GettyImages-1627311232-e1692541636956.jpg?quality=100&strip=info")
-        linkDeNoticia("https://www.youtube.com/?bp=wgUCEAE%3D","España vence Inglaterra")
+        linkDeNoticia("https://stunning-xylophone-5gqx59prvg6xhqxr-8503.app.github.dev/","España vence Inglaterra")
         st.markdown("<h1 style='font-family: Arial; font-size: 12px; text-align: center;'>ooooooooooooooooooooooooooooooooooooo</h1>", unsafe_allow_html=True)
     with col3:
         linkDeImagen("https://imagenes.elpais.com/resizer/RmQ4R6zkGe3on3ezyvO12i6kZBs=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/NPQ3SK5STVDQBMUYSGT6SKBN7Q.jpg")
-        linkDeNoticia("https://www.youtube.com/?bp=wgUCEAE%3D","Concierto de Tylor Swift")
+        linkDeNoticia("https://stunning-xylophone-5gqx59prvg6xhqxr-8503.app.github.dev/","Concierto de Taylor Swift")
         st.markdown("<h1 style='font-family: Arial; font-size: 12px; text-align: center;'>ooooooooooooooooooooooooooooooooooooo</h1>", unsafe_allow_html=True)
     
     st.text("--------------------------------------------------------------------------------------------------------------")
@@ -104,61 +104,61 @@ if SidebarButton("Ciencia"):
     col4, col5, col6 = st.columns(3)
     with col4:
         linkDeImagen("https://media.datacenterdynamics.com/media/images/Extra.original.jpg")
-        linkDeNoticia("https://www.youtube.com/?bp=wgUCEAE%3D","10 Noticias que cambiaron el mundo")
+        linkDeNoticia("https://stunning-xylophone-5gqx59prvg6xhqxr-8503.app.github.dev/","10 Noticias que cambiaron el mundo")
         st.markdown("<h1 style='font-family: Arial; font-size: 12px; text-align: center;'>ooooooooooooooooooooooooooooooooooooo</h1>", unsafe_allow_html=True)
     with col5:
         linkDeImagen("https://cnnespanol.cnn.com/wp-content/uploads/2023/08/GettyImages-1627311232-e1692541636956.jpg?quality=100&strip=info")
-        linkDeNoticia("https://www.youtube.com/?bp=wgUCEAE%3D","España vence Inglaterra")
+        linkDeNoticia("https://stunning-xylophone-5gqx59prvg6xhqxr-8503.app.github.dev/","España vence Inglaterra")
         st.markdown("<h1 style='font-family: Arial; font-size: 12px; text-align: center;'>ooooooooooooooooooooooooooooooooooooo</h1>", unsafe_allow_html=True)
     with col6:
         linkDeImagen("https://imagenes.elpais.com/resizer/RmQ4R6zkGe3on3ezyvO12i6kZBs=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/NPQ3SK5STVDQBMUYSGT6SKBN7Q.jpg")
-        linkDeNoticia("https://www.youtube.com/?bp=wgUCEAE%3D","Concierto de Tylor Swift")
+        linkDeNoticia("https://stunning-xylophone-5gqx59prvg6xhqxr-8503.app.github.dev/","Concierto de Taylor Swift")
         st.markdown("<h1 style='font-family: Arial; font-size: 12px; text-align: center;'>ooooooooooooooooooooooooooooooooooooo</h1>", unsafe_allow_html=True)
 
 if SidebarButton("Política"):
     col1, col2, col3 = st.columns(3)
     with col1:
-        linkDeImagen("https://media.datacenterdynamics.com/media/images/Extra.original.jpg")
-        linkDeNoticia("https://www.youtube.com/?bp=wgUCEAE%3D","10 Noticias que cambiaron el mundo")
+        linkDeImagen("https://www.sdpnoticias.com/resizer/dcUT_j0QwFSIHhnVcbRoNUpRHRM=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/sdpnoticias/SP2AVFZLHBCZFKOPKPZ7H4JP5Q.jpeg")
+        linkDeNoticia("https://stunning-xylophone-5gqx59prvg6xhqxr-8503.app.github.dev/","La crisis de agua en Nuevo León")
         st.markdown("<h1 style='font-family: Arial; font-size: 12px; text-align: center;'>ooooooooooooooooooooooooooooooooooooo</h1>", unsafe_allow_html=True)
     with col2:
         linkDeImagen("https://cnnespanol.cnn.com/wp-content/uploads/2023/08/GettyImages-1627311232-e1692541636956.jpg?quality=100&strip=info")
-        linkDeNoticia("https://www.youtube.com/?bp=wgUCEAE%3D","España vence Inglaterra")
+        linkDeNoticia("https://stunning-xylophone-5gqx59prvg6xhqxr-8503.app.github.dev/","España vence Inglaterra")
         st.markdown("<h1 style='font-family: Arial; font-size: 12px; text-align: center;'>ooooooooooooooooooooooooooooooooooooo</h1>", unsafe_allow_html=True)
     with col3:
         linkDeImagen("https://imagenes.elpais.com/resizer/RmQ4R6zkGe3on3ezyvO12i6kZBs=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/NPQ3SK5STVDQBMUYSGT6SKBN7Q.jpg")
-        linkDeNoticia("https://www.youtube.com/?bp=wgUCEAE%3D","Concierto de Tylor Swift")
+        linkDeNoticia("https://stunning-xylophone-5gqx59prvg6xhqxr-8503.app.github.dev/","Concierto de Taylor Swift")
         st.markdown("<h1 style='font-family: Arial; font-size: 12px; text-align: center;'>ooooooooooooooooooooooooooooooooooooo</h1>", unsafe_allow_html=True)
     
     st.text("--------------------------------------------------------------------------------------------------------------")
 
     col4, col5, col6 = st.columns(3)
     with col4:
-        linkDeImagen("https://media.datacenterdynamics.com/media/images/Extra.original.jpg")
-        linkDeNoticia("https://www.youtube.com/?bp=wgUCEAE%3D","10 Noticias que cambiaron el mundo")
+        linkDeImagen("https://www.sdpnoticias.com/resizer/dcUT_j0QwFSIHhnVcbRoNUpRHRM=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/sdpnoticias/SP2AVFZLHBCZFKOPKPZ7H4JP5Q.jpeg")
+        linkDeNoticia("https://stunning-xylophone-5gqx59prvg6xhqxr-8503.app.github.dev/","La crisis de agua en Nuevo León")
         st.markdown("<h1 style='font-family: Arial; font-size: 12px; text-align: center;'>ooooooooooooooooooooooooooooooooooooo</h1>", unsafe_allow_html=True)
     with col5:
         linkDeImagen("https://cnnespanol.cnn.com/wp-content/uploads/2023/08/GettyImages-1627311232-e1692541636956.jpg?quality=100&strip=info")
-        linkDeNoticia("https://www.youtube.com/?bp=wgUCEAE%3D","España vence Inglaterra")
+        linkDeNoticia("https://stunning-xylophone-5gqx59prvg6xhqxr-8503.app.github.dev/","España vence Inglaterra")
         st.markdown("<h1 style='font-family: Arial; font-size: 12px; text-align: center;'>ooooooooooooooooooooooooooooooooooooo</h1>", unsafe_allow_html=True)
     with col6:
         linkDeImagen("https://imagenes.elpais.com/resizer/RmQ4R6zkGe3on3ezyvO12i6kZBs=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/NPQ3SK5STVDQBMUYSGT6SKBN7Q.jpg")
-        linkDeNoticia("https://www.youtube.com/?bp=wgUCEAE%3D","Concierto de Tylor Swift")
+        linkDeNoticia("https://stunning-xylophone-5gqx59prvg6xhqxr-8503.app.github.dev/","Concierto de Taylor Swift")
         st.markdown("<h1 style='font-family: Arial; font-size: 12px; text-align: center;'>ooooooooooooooooooooooooooooooooooooo</h1>", unsafe_allow_html=True)
 
 if SidebarButton("Tecnología"):
     col1, col2, col3 = st.columns(3)
     with col1:
         linkDeImagen("https://media.datacenterdynamics.com/media/images/Extra.original.jpg")
-        linkDeNoticia("https://www.youtube.com/?bp=wgUCEAE%3D","10 Noticias que cambiaron el mundo")
+        linkDeNoticia("https://stunning-xylophone-5gqx59prvg6xhqxr-8503.app.github.dev/","10 Noticias que cambiaron el mundo")
         st.markdown("<h1 style='font-family: Arial; font-size: 12px; text-align: center;'>ooooooooooooooooooooooooooooooooooooo</h1>", unsafe_allow_html=True)
     with col2:
         linkDeImagen("https://cnnespanol.cnn.com/wp-content/uploads/2023/08/GettyImages-1627311232-e1692541636956.jpg?quality=100&strip=info")
-        linkDeNoticia("https://www.youtube.com/?bp=wgUCEAE%3D","España vence Inglaterra")
+        linkDeNoticia("https://stunning-xylophone-5gqx59prvg6xhqxr-8503.app.github.dev/","España vence Inglaterra")
         st.markdown("<h1 style='font-family: Arial; font-size: 12px; text-align: center;'>ooooooooooooooooooooooooooooooooooooo</h1>", unsafe_allow_html=True)
     with col3:
         linkDeImagen("https://imagenes.elpais.com/resizer/RmQ4R6zkGe3on3ezyvO12i6kZBs=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/NPQ3SK5STVDQBMUYSGT6SKBN7Q.jpg")
-        linkDeNoticia("https://www.youtube.com/?bp=wgUCEAE%3D","Concierto de Tylor Swift")
+        linkDeNoticia("https://stunning-xylophone-5gqx59prvg6xhqxr-8503.app.github.dev/","Concierto de Taylor Swift")
         st.markdown("<h1 style='font-family: Arial; font-size: 12px; text-align: center;'>ooooooooooooooooooooooooooooooooooooo</h1>", unsafe_allow_html=True)
     
     st.text("--------------------------------------------------------------------------------------------------------------")
@@ -166,30 +166,30 @@ if SidebarButton("Tecnología"):
     col4, col5, col6 = st.columns(3)
     with col4:
         linkDeImagen("https://media.datacenterdynamics.com/media/images/Extra.original.jpg")
-        linkDeNoticia("https://www.youtube.com/?bp=wgUCEAE%3D","10 Noticias que cambiaron el mundo")
+        linkDeNoticia("https://stunning-xylophone-5gqx59prvg6xhqxr-8503.app.github.dev/","10 Noticias que cambiaron el mundo")
         st.markdown("<h1 style='font-family: Arial; font-size: 12px; text-align: center;'>ooooooooooooooooooooooooooooooooooooo</h1>", unsafe_allow_html=True)
     with col5:
         linkDeImagen("https://cnnespanol.cnn.com/wp-content/uploads/2023/08/GettyImages-1627311232-e1692541636956.jpg?quality=100&strip=info")
-        linkDeNoticia("https://www.youtube.com/?bp=wgUCEAE%3D","España vence Inglaterra")
+        linkDeNoticia("https://stunning-xylophone-5gqx59prvg6xhqxr-8503.app.github.dev/","España vence Inglaterra")
         st.markdown("<h1 style='font-family: Arial; font-size: 12px; text-align: center;'>ooooooooooooooooooooooooooooooooooooo</h1>", unsafe_allow_html=True)
     with col6:
         linkDeImagen("https://imagenes.elpais.com/resizer/RmQ4R6zkGe3on3ezyvO12i6kZBs=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/NPQ3SK5STVDQBMUYSGT6SKBN7Q.jpg")
-        linkDeNoticia("https://www.youtube.com/?bp=wgUCEAE%3D","Concierto de Tylor Swift")
+        linkDeNoticia("https://stunning-xylophone-5gqx59prvg6xhqxr-8503.app.github.dev/","Concierto de Taylor Swift")
         st.markdown("<h1 style='font-family: Arial; font-size: 12px; text-align: center;'>ooooooooooooooooooooooooooooooooooooo</h1>", unsafe_allow_html=True)
 
 if SidebarButton("Entretenimiento"):
     col1, col2, col3 = st.columns(3)
     with col1:
         linkDeImagen("https://media.datacenterdynamics.com/media/images/Extra.original.jpg")
-        linkDeNoticia("https://www.youtube.com/?bp=wgUCEAE%3D","10 Noticias que cambiaron el mundo")
+        linkDeNoticia("https://stunning-xylophone-5gqx59prvg6xhqxr-8503.app.github.dev/","La crisis de agua en Nuevo León")
         st.markdown("<h1 style='font-family: Arial; font-size: 12px; text-align: center;'>ooooooooooooooooooooooooooooooooooooo</h1>", unsafe_allow_html=True)
     with col2:
         linkDeImagen("https://cnnespanol.cnn.com/wp-content/uploads/2023/08/GettyImages-1627311232-e1692541636956.jpg?quality=100&strip=info")
-        linkDeNoticia("https://www.youtube.com/?bp=wgUCEAE%3D","España vence Inglaterra")
+        linkDeNoticia("https://stunning-xylophone-5gqx59prvg6xhqxr-8503.app.github.dev/","España vence Inglaterra")
         st.markdown("<h1 style='font-family: Arial; font-size: 12px; text-align: center;'>ooooooooooooooooooooooooooooooooooooo</h1>", unsafe_allow_html=True)
     with col3:
         linkDeImagen("https://imagenes.elpais.com/resizer/RmQ4R6zkGe3on3ezyvO12i6kZBs=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/NPQ3SK5STVDQBMUYSGT6SKBN7Q.jpg")
-        linkDeNoticia("https://www.youtube.com/?bp=wgUCEAE%3D","Concierto de Tylor Swift")
+        linkDeNoticia("https://stunning-xylophone-5gqx59prvg6xhqxr-8503.app.github.dev/","Concierto de Taylor Swift")
         st.markdown("<h1 style='font-family: Arial; font-size: 12px; text-align: center;'>ooooooooooooooooooooooooooooooooooooo</h1>", unsafe_allow_html=True)
     
     st.text("--------------------------------------------------------------------------------------------------------------")
@@ -197,28 +197,27 @@ if SidebarButton("Entretenimiento"):
     col4, col5, col6 = st.columns(3)
     with col4:
         linkDeImagen("https://media.datacenterdynamics.com/media/images/Extra.original.jpg")
-        linkDeNoticia("https://www.youtube.com/?bp=wgUCEAE%3D","10 Noticias que cambiaron el mundo")
+        linkDeNoticia("https://stunning-xylophone-5gqx59prvg6xhqxr-8503.app.github.dev/","10 Noticias que cambiaron el mundo")
         st.markdown("<h1 style='font-family: Arial; font-size: 12px; text-align: center;'>ooooooooooooooooooooooooooooooooooooo</h1>", unsafe_allow_html=True)
     with col5:
         linkDeImagen("https://cnnespanol.cnn.com/wp-content/uploads/2023/08/GettyImages-1627311232-e1692541636956.jpg?quality=100&strip=info")
-        linkDeNoticia("https://www.youtube.com/?bp=wgUCEAE%3D","España vence Inglaterra")
+        linkDeNoticia("https://stunning-xylophone-5gqx59prvg6xhqxr-8503.app.github.dev/","España vence Inglaterra")
         st.markdown("<h1 style='font-family: Arial; font-size: 12px; text-align: center;'>ooooooooooooooooooooooooooooooooooooo</h1>", unsafe_allow_html=True)
     with col6:
         linkDeImagen("https://imagenes.elpais.com/resizer/RmQ4R6zkGe3on3ezyvO12i6kZBs=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/NPQ3SK5STVDQBMUYSGT6SKBN7Q.jpg")
-        linkDeNoticia("https://www.youtube.com/?bp=wgUCEAE%3D","Concierto de Tylor Swift")
+        linkDeNoticia("https://stunning-xylophone-5gqx59prvg6xhqxr-8503.app.github.dev/","Concierto de Taylor Swift")
         st.markdown("<h1 style='font-family: Arial; font-size: 12px; text-align: center;'>ooooooooooooooooooooooooooooooooooooo</h1>", unsafe_allow_html=True)
 else:
     col1, col2, col3 = st.columns(3)
     with col1:
         linkDeImagen("https://media.datacenterdynamics.com/media/images/Extra.original.jpg")
-        linkDeNoticia("https://www.youtube.com/?bp=wgUCEAE%3D","10 Noticias que cambiaron el mundo")
+        linkDeNoticia("https://stunning-xylophone-5gqx59prvg6xhqxr-8503.app.github.dev/","10 Noticias que cambiaron el mundo")
         st.markdown("<h1 style='font-family: Arial; font-size: 12px; text-align: center;'>ooooooooooooooooooooooooooooooooooooo</h1>", unsafe_allow_html=True)
     with col2:
         linkDeImagen("https://cnnespanol.cnn.com/wp-content/uploads/2023/08/GettyImages-1627311232-e1692541636956.jpg?quality=100&strip=info")
-        linkDeNoticia("https://www.youtube.com/?bp=wgUCEAE%3D","España vence Inglaterra")
+        linkDeNoticia("https://stunning-xylophone-5gqx59prvg6xhqxr-8503.app.github.dev/","España vence Inglaterra")
         st.markdown("<h1 style='font-family: Arial; font-size: 12px; text-align: center;'>ooooooooooooooooooooooooooooooooooooo</h1>", unsafe_allow_html=True)
     with col3:
         linkDeImagen("https://imagenes.elpais.com/resizer/RmQ4R6zkGe3on3ezyvO12i6kZBs=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/NPQ3SK5STVDQBMUYSGT6SKBN7Q.jpg")
-        linkDeNoticia("https://www.youtube.com/?bp=wgUCEAE%3D","Concierto de Tylor Swift")
+        linkDeNoticia("https://stunning-xylophone-5gqx59prvg6xhqxr-8503.app.github.dev/","Concierto de Taylor Swift")
         st.markdown("<h1 style='font-family: Arial; font-size: 12px; text-align: center;'>ooooooooooooooooooooooooooooooooooooo</h1>", unsafe_allow_html=True)
-
